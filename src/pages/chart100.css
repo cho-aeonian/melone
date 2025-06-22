@@ -1,0 +1,80 @@
+.chart-container {
+    padding: 24px;
+    font-family: sans-serif;
+  }
+  
+  .chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .chart-date .date {
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .chart-date .time {
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 8px;
+  }
+  
+  .chart-buttons {
+    margin: 16px 0;
+    display: flex;
+    gap: 8px;
+  }
+  
+  .chart-buttons button {
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .chart-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 14px;
+  }
+  
+  .chart-table thead {
+    background-color: #f2f2f2;
+  }
+  
+  .chart-table th, .chart-table td {
+    padding: 12px;
+    border-bottom: 1px solid #e0e0e0;
+    text-align: left;
+    vertical-align: middle;
+    
+  }
+  
+  .song-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .song-info img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  .artist {
+    font-size: 12px;
+    color: #777;
+  }
+  

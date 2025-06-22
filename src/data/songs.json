@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title": "밤하늘의 별을",
+      "artist": "경서",
+      "albumCover": "https://via.placeholder.com/200x200?text=Album1",
+      "rank": 1
+    },
+    {
+      "id": "2",
+      "title": "헤어지자 말해요",
+      "artist": "박재정",
+      "albumCover": "https://via.placeholder.com/200x200?text=Album2",
+      "rank": 2
+    },
+    {
+      "id": "3",
+      "title": "Love wins all",
+      "artist": "아이유",
+      "albumCover": "https://via.placeholder.com/200x200?text=Album3",
+      "rank": 3
+    }
+  ]
+  
