@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Chart100 from "./pages/chart100";
 import NewReleases from "./pages/NewReleases";
-import MyPage from "./pages/MyPage";
+import MyPage from "./pages/myPage";
 import "./App.css";
 
 
